@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kian-hedayati
+- 👀 I’m interested in flluter/dart app development
+- 🌱 I’m currently learnin Rust Go language
+- 📫 How to reach me kian.hedayati@std.yeditepe.edu.tr
+- ⚡ Fun fact: Chess State champion
