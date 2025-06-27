@@ -41,3 +41,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kian-hedayati&show_icons=true&locale=en&layout=compact" alt="kian-hedayati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kian-hedayati&show_icons=true&locale=en" alt="kian-hedayati" /></p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kian-hedayati&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="kian-hedayati trophies" />
+</p>
+
