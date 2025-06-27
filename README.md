@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm kian-hedayati</h1>
 <h3 align="center">### 💻 Frontend Developer | UI Enthusiast | Code-Driven Creator from Istanbul 🇹🇷</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kian-hedayati&label=Profile%20views&color=0e75b6&style=flat" alt="kian-hedayati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kian-hedayati" alt="kian-hedayati" /></a> </p>
 
 - 🔭 I’m currently working on [**Dorge Gold** — A precious metal investment platform for tracking, trading, and securing digital gold assets]([github.com/kian-hedayati/dorge-gold](https://github.com/kian-hedayati/dorge-gold))
 
